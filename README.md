@@ -1,11 +1,12 @@
 # Data-Science-Manger
 Tips for Data Science Manager
 
-Best for the team
+Clear Vision
 -  Wear two hats.
   -  Have a strong vision for the product and understand the importance of advocating for the user. Making sure that the problem and why we’re doing it is always clear to everyone(team and business).
   -  Technical feasibility
 
+How to Hire
 - how to give good feedback to the team.
 
 Work with Product Designer (https://medium.com/product-to-product/how-6-product-designers-tackle-friction-with-product-managers-7877937d6044)
