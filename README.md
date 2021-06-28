@@ -6,6 +6,10 @@ Clear Vision
   -  Have a strong vision for the product and understand the importance of advocating for the user. Making sure that the problem and why we’re doing it is always clear to everyone(team and business).
   -  Technical feasibility
 
+How to deliver
+- The insight to take ambiguous problems and solve them in a structured, hypothesis-driven, data-supported way
+
+
 How to Hire
 - how to give good feedback to the team.
 
