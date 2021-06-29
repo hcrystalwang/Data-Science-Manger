@@ -9,6 +9,8 @@ Clear Vision
 How to deliver
 - The insight to take ambiguous problems and solve them in a structured, hypothesis-driven, data-supported way
 
+How to drive to actions
+
 
 How to Hire
 - how to give good feedback to the team.
