@@ -1,5 +1,8 @@
-Glassdoor API: https://www.glassdoor.com/developer/index.htm
+# Project Ideas:
+- Glassdoor API: https://www.glassdoor.com/developer/index.htm
 
+# Writing Idea:
+- machine learning lifecycle
 
 
 
